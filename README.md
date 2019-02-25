@@ -11,7 +11,7 @@ Dockerfile to build my base test environment 🛠 .
 - bzip2✓
 - unzip✓
 - make✓
-- gcc/g++ 7.3.0✓
+- gcc/g++ 7.3.0✓ (as of 2019/02/25)
 - vim✓
 - add-apt-repository✓
 	- `python-software-properties` for 12.04
