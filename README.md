@@ -15,7 +15,7 @@ Dockerfile to build my base test environment 🛠 .
 - vim✓
 - add-apt-repository✓
 	- `python-software-properties` for 12.04
-	- s`oftware-properties-common` for 12.10 and above
+	- `software-properties-common` for 12.10 and above
 - man-db✓
 - inetutils-ping✓
 - net-tools✓
