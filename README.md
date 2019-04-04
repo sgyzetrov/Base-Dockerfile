@@ -4,6 +4,14 @@
 
 Dockerfile to build my base test environment 🛠 .
 
+## Build
+
+```
+# take `base` for example
+$> cd base
+$> docker build -t base_ubuntu .
+```
+
 ## Base-Component
 
 - wget✓
@@ -31,6 +39,6 @@ Dockerfile to build my base test environment 🛠 .
 
 ## TODO
 
-- [ ] Optimize for Chinese ISP.
+- [x] Optimize for Chinese ISP.
 - [ ] "Advance_1": Base environment with gcc-4.8.5 enabled as primary.
 - [ ] "Advance_2": Boost installed on top of "Advance_1" environment.
